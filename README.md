@@ -2,14 +2,31 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="center">
-  
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 
-
-
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 
 </p>
+<p align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400"/>
+
+</p>
+<p align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHptZGg4azZ1bW5nYmhuazR3em41OG5vbTV2aW5pbHdzYWhlcHFzdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tTf7Pmm2CBoLk/giphy.gif" width="400"/>
+
+</p>
+<p align="center">
+
+<img src="https://media.giphy.com/media/11fucLHgqPklDO/giphy.gif" width="400"/>
+
+</p>
+<p align="center">
+
+<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="400"/>
+
+</p>
+
 
 - 🌱 I’m currently learning **React , Next.js**
 
