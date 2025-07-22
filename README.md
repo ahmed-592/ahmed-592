@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ahmed Abdelwahab</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ahmed Abdelwahab</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
+
 
 </p>
 
