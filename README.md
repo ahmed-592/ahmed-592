@@ -9,7 +9,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **React , Next.js**
+- 🌱 Currently working as a frontend developer while learning backend development.**
 
 - 📫 How to reach me **ahmmeeddd592@gmail.com**
 
